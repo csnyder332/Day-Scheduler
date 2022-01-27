@@ -2,9 +2,14 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   line-height: 1;
+  padding-bottom: 50px;
 }
 
-textarea{
+.container {
+
+}
+
+.textarea{
   background: transparent;
   border: none;
   resize: none;
@@ -25,7 +30,7 @@ textarea{
   white-space: pre-wrap;
 }
 
-.time-block{
+.time-block {
   text-align: center;
   border-radius: 15px;
 }
