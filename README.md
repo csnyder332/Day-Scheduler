@@ -24,4 +24,4 @@ THEN the saved events persist
 
 Link to Github repository: https://github.com/csnyder332/My-Scheduler
 
-Link to live URL: https://csnyder332.github.io/My-Scheduler/
+Link to live URL: https://csnyder332.github.io/Day-Scheduler/
